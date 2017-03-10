@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "colors": "^1.1.2",
     "css-loader": "^0.27.1",
+    "diff": "^3.2.0",
     "extract-text-webpack-plugin": "^2.1.0",
     "less": "^2.7.2",
     "less-loader": "^3.0.0",
